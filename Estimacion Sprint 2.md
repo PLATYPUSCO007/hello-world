@@ -9,7 +9,7 @@
 
 ## Sprint 2 
 
-[Documento de reestimacion](/Reestimacion/Reestimacion.pdf)
+[Documento de reestimacion](/Reestimacion.pdf)
  
 
 ## Sprint Goal 2
